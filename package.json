@@ -1,0 +1,14 @@
+{
+  "main": "index.ts",
+  "scripts": {
+    "start": "index.ts"
+  },
+  "dependencies": {
+    "viem": "^1.19.13",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "typescript": "^5.4.4"
+  }
+}
